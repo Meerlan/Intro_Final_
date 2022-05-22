@@ -1,5 +1,5 @@
 # GameForFinal
- Game for final project
+ Game for final project.
 
 <h3>Contributors</h3>
 <p>Meerlan Tynarbekov</p>
